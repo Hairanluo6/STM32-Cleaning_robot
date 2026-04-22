@@ -23,8 +23,9 @@
   4、控制RGB的范围可以实现多种颜色的垃圾识别
 
 # 五、产品图片
-![image](https://github.com/user-attachments/assets/2ec9c52e-5313-4099-a946-5c5f1a7ef5a0)
-![image](https://github.com/user-attachments/assets/aae3aa13-4729-45b4-862a-ec5b7fd9736c)
+<img width="320" height="420" alt="a9c1e98d11628c87f6aed8a4ac9a0739" src="https://github.com/user-attachments/assets/6064ab45-bb59-4e4d-bf50-03ff3f4b6c54" />
+<img width="320" height="420" alt="910a7b65bc28430ec07a41caf74d41c1" src="https://github.com/user-attachments/assets/2f59dede-07fc-46f9-a0f0-29814d73cf37" />
+
 
 
 
